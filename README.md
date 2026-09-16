@@ -65,5 +65,7 @@ Se usaron pines del ADC1 del ESP32 para no interferir con el WiFi/Bluetooth.
 ## Evidencia
 
 - Video: [`brazo.mp4`](./brazo.mp4)
-- Capturas del cableado, la consola con los datos `DATA,...` y el brazo en
-  distintas poses (pinza abierta/cerrada): [agregar aquí]
+- Capturas de las 5 posiciones del brazo (incluye pinza abierta y cerrada):
+  [`Posicion_1.jpeg`](./Posicion_1.jpeg), [`Posicion_2.jpeg`](./Posicion_2.jpeg),
+  [`Posicion_3.jpeg`](./Posicion_3.jpeg), [`Posicion_4.jpeg`](./Posicion_4.jpeg),
+  [`Posicion_5.jpeg`](./Posicion_5.jpeg)
